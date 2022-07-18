@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hritik211013
-- 👀 I’m interested in CP , WEB and APP Development , Cyber Security and DATABASE
+- 👀 I’m interested in CP , WEB Development , Cyber Security and DATABASE
 - 🌱 I’m currently learning Various computer languages which include C, C++, PYTHON, JAVA, KOTLIN, SWIFT, FLUTTER, JAVASCRIPT and many more...
 - 💞️ I’m looking to collaborate on with GOOGLE and MICROSOFT or with Startups to Learn and have experience on the ground...
 - 📫 How to reach me 

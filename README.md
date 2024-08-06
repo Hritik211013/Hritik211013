@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Hritik211013
-- 👀 I’m interested in CP , WEB Development , Cyber Security and DATABASE.
-- 📫I'm a Backened Develepor and use Flask for the Purpose  
-- 🌱 The Programming  Languages Which i know includes  C, C++, PYTHON.
-- 💞️ I’m looking to collaborate on with GOOGLE and MICROSOFT or with Startups to Learn and have experience on the ground...
+- 👀 I’m interested in CP , WEB Development and Machine Learning.
+- 📫I'm a Java Backened Develepor using Spring Framework, 
+- 🌱 The Programming  Languages Which i know includes  C, C++, PYTHON and JAVA.
+- 💞️ I’m looking to collaborate on with Product or Service based companies or with Startups to Learn and have experience on the ground...
 - 📫 How to reach me 
      1.INSTAGRAM : hritik5032
 		 2.YOUTUBE :  MATJEE
